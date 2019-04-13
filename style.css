@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  color: hsl(225, 30%, 20%);
+}
+
+body {
+  background-color: hsl(225, 80%, 90%);
+  margin: 0;
+}
+
+h1 {
+  text-decoration: underline;
+  text-decoration-color: hsl(225, 50%, 50%);
+}
+
+header p {
+  font-size: 1.25em;
+  color: hsl(225, 50%, 40%);
+}
+
+header,
+.section {
+  background-color: white;
+  padding: 1em;
+  margin: 1em;
+  line-height: 1.5em;
+  box-shadow: 0 2px 4px hsla(225, 30%, 20%, 0.2);
+}
+
+.section {
+  border-left: 1em solid hsl(225, 50%, 50%);
+}
