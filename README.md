@@ -4,7 +4,7 @@ Full Stack Web Developer
 
 ### Summary
 
-Current student at Founders and Coders (FAC16), learning full-stack web development. I'm a Psychology graduate with a 2:1 honours degree from the University of Reading, and previously worked in data for four years. I am proficient in MS Excel and Access, with some self-taught VBA and SQL. I know a smattering of Python.
+Current student at Founders and Coders, learning full-stack web development. I'm a Psychology graduate with a 2:1 honours degree from the University of Reading, and previously worked in data analysis for four years. I am proficient in MS Excel and Access, with some self-taught VBA and SQL. I know a smattering of Python.
 
 ---
 
@@ -12,7 +12,7 @@ Current student at Founders and Coders (FAC16), learning full-stack web developm
 
 [Founder and Coders](https://www.foundersandcoders.com/) are a non-profit based in Finsbury Park, London. They run peer-led web development courses which are free but highly selective.
 
-At Founders and Coders I'm learning full stack web development; so far we've covered:
+At Founders and Coders I'm learning full stack web development:
 
 - HTML and CSS
 - Accessibility and design
